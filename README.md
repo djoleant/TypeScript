@@ -2,4 +2,4 @@
 Data structures and algorithms in TypeScript
 <br>
 <br>
-Examples are found on Leetcode and database from older exam exercises for Web programming on Faculty of Electronic Engineering
+Examples are found on Leetcode and database from previous exam exercises for Web programming subject on Faculty of Electronic Engineering, University of Niš.
